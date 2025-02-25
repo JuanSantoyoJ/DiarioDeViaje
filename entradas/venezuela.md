@@ -6,4 +6,5 @@ La capital de Venezuela, rodeada por montañas, es un centro cultural lleno de h
 ## Recomendacion
 Subir al Ávila en teleférico y disfrutar de las vistas panorámicas de la ciudad.
 
-
+## Foto
+(Link de foto de la ciudad de Caracas, Venezuela)
