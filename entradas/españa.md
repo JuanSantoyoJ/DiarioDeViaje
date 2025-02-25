@@ -6,3 +6,5 @@ Una ciudad costera famosa por su arquitectura modernista, las obras de Gaudí y 
 ## Recomendacion
 Visitar la Sagrada Familia, la famosa basílica diseñada por Antoni Gaudí.
 
+## Foto
+(Link de foto de la ciudad de Barcelona, España)
