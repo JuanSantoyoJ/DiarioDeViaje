@@ -5,3 +5,6 @@ La ciudad que nunca duerme, famosa por sus rascacielos, cultura vibrante y sitio
 
 ## Recomendacion
 Recorrer Central Park y disfrutar de un paseo en bote por el lago.
+
+## Foto
+(Link de foto de la ciudad de Nueva York, USA)
